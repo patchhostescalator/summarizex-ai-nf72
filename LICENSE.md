@@ -1,4 +1,4 @@
-# 
+# Custom SummarizeX script. Download and install with pre-configured-models and python-compatibility — fast, secure, and easy to use.
 
 
 
